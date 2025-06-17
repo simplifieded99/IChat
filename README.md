@@ -3,35 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>iChat Privacy Policy</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #00695c;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    h2 {
-      margin-top: 30px;
-    }
-    ul {
-      list-style-type: disc;
-      margin-left: 20px;
-    }
-    .contact {
-      margin-top: 40px;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>iChat Privacy Policy</h1>
