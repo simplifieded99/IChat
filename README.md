@@ -5,7 +5,7 @@
   
 </head>
 <body>
-  <h1>iChat Privacy Policy</h1>
+  <h1>Privacy Policy</h1>
   <p><strong>Last Updated:</strong> 15 June 2025</p>
 
   <p>At <strong>iChat</strong>, your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and services (the “iChat App”). By using iChat, you agree to the practices described in this Policy.</p>
